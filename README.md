@@ -5,7 +5,8 @@ https://github.blog/2018-12-19-download-your-data/
 ## https://github.com/kevin11h/sherlock#installation
 
 # Top githubUsers API
-## https://gist.github.com/paulmillr/2657075
+## https://github.com/paulmillr/top-github-users
+### https://gist.github.com/paulmillr/2657075
 
 # github username Regex
 ## https://github.com/kevin11h/sherlock#installation

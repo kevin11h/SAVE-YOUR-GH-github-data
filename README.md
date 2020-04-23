@@ -1,2 +1,11 @@
 # SAVE-YOUR-GH-github-data
 https://github.blog/2018-12-19-download-your-data/
+
+# Sherlock Social Media Presence Cross Search Seeking
+## https://github.com/kevin11h/sherlock#installation
+
+# Top githubUsers API
+## https://gist.github.com/paulmillr/2657075
+
+# github username Regex
+## https://github.com/kevin11h/sherlock#installation

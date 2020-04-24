@@ -1,12 +1,15 @@
 # https://github-bot-tutorial.readthedocs.io/en/latest/
-# https://github.com/andrewsyc/github-follow-bot
-# https://help.github.com/en/github/searching-for-information-on-github/searching-users#search-only-users-or-organizations
+## https://github.com/andrewsyc/github-follow-bot
+### https://help.github.com/en/github/searching-for-information-on-github/searching-users#search-only-users-or-organizations
+
+### https://github.com/search?q=location%3Arussia&type=Users
 
 # Github API
 ## Help
-## `https://help.github.com/en/github/searching-for-information-on-github/searching-users#search-only-users-or-organizations`
-## `https://api.github.com/search/users?q=followers:%3E4+sort:followers&per_page=1000`
-## `https://github.com/search?q=a+in%3Aemail&type=Users`
+#### `https://help.github.com/en/github/searching-for-information-on-github/searching-users#search-only-users-or-organizations`
+#### `https://api.github.com/search/users?q=followers:%3E4+sort:followers&per_page=1000`
+#### `https://github.com/search?q=location%3Arussia&type=Users`
+#### `https://github.com/search?q=a+in%3Aemail&type=Users`
 
 # SAVE-YOUR-GH-github-data
 https://github.blog/2018-12-19-download-your-data/

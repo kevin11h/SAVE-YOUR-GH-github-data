@@ -1,3 +1,5 @@
+# 1000 1K Contacts A Day = 1K $1,000 / Day = 1,000 x 365 Days ~400,000 400K Year
+
 # https://github-bot-tutorial.readthedocs.io/en/latest/
 ## https://github.com/andrewsyc/github-follow-bot
 ### https://help.github.com/en/github/searching-for-information-on-github/searching-users#search-only-users-or-organizations

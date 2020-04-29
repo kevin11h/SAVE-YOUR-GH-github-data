@@ -41,4 +41,6 @@ https://www.codingame.com/blog/which-students-are-really-the-best-developers-in-
 code school
 # https://en.wikipedia.org/wiki/42_(school)#Other_schools_(licensed_-_same_program)
 # Order by most followed
+https://github.com/search?q=location%3Apasadena&type=Users
+
 # https://github.com/search?o=desc&p=8&q=location%3Abrooklyn&type=Users

@@ -30,3 +30,8 @@ https://github.blog/2018-12-19-download-your-data/
 ## https://github.com/kevin11h/sherlock#installation
 
 ![](https://github.com/kevin11h/SAVE-YOUR-GH-github-data/blob/master/map.png?raw=true)
+![](https://www.codingame.com/blog/which-students-are-really-the-best-developers-in-the-world/)
+
+![](https://www.codingame.com/blog/wp-content/uploads/2017/01/slides-of-a-pitch-deck-3-410x1024.png)
+
+https://www.codingame.com/blog/which-students-are-really-the-best-developers-in-the-world/

@@ -1,4 +1,5 @@
-# 1000 1K Contacts A Day = 1K $1,000 / Day = 1,000 x 365 Days ~400,000 400K Year
+
+### 1000 1K Contacts A Day = 1K $1,000 / Day = 1,000 x 365 Days ~400,000 400K Year
 
 ## https://github-bot-tutorial.readthedocs.io/en/latest/
 ### https://github.com/andrewsyc/github-follow-bot
@@ -37,5 +38,7 @@ https://github.blog/2018-12-19-download-your-data/
 
 https://www.codingame.com/blog/which-students-are-really-the-best-developers-in-the-world/
 
+code school
+# https://en.wikipedia.org/wiki/42_(school)#Other_schools_(licensed_-_same_program)
 # Order by most followed
 # https://github.com/search?o=desc&p=8&q=location%3Abrooklyn&type=Users

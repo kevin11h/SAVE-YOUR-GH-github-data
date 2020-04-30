@@ -3,7 +3,7 @@
 ##### 10K New Friends Per Pay Day
 
 http://microformats.org/wiki/hresume-examples-in-wild
-
+LinkedIn has ~9 million Public Profiles marked up in hResume
 ## https://github-bot-tutorial.readthedocs.io/en/latest/
 ### https://github.com/andrewsyc/github-follow-bot
 #### https://help.github.com/en/github/searching-for-information-on-github/searching-users#search-only-users-or-organizations

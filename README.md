@@ -1,5 +1,8 @@
 
 ### 1000 1K Contacts A Day = 1K $1,000 / Day = 1,000 x 365 Days ~400,000 400K Year
+##### 10K New Friends Per Pay Day
+
+http://microformats.org/wiki/hresume-examples-in-wild
 
 ## https://github-bot-tutorial.readthedocs.io/en/latest/
 ### https://github.com/andrewsyc/github-follow-bot

@@ -51,7 +51,10 @@ https://github.com/search?q=location%3Awharton&type=Users
 
 
 # https://github.com/topics/linkedin-scraper?o=desc&s=stars
-# https://github.com/linkedin/URL-Detector
-# https://github.com/jvandenaardweg/linkedin-profile-scraper
-# https://github.com/asraisingh/linkedin-email-extractor
+## https://github.com/linkedtales/scrapedin
+## https://github.com/joeyism/linkedin_scraper
+
+### https://github.com/linkedin/URL-Detector
+### https://github.com/jvandenaardweg/linkedin-profile-scraper
+### https://github.com/asraisingh/linkedin-email-extractor
 # https://github.com/emeth-/E-Reveal

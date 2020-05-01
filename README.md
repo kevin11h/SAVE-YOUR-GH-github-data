@@ -1,7 +1,7 @@
 
 ### 1000 1K Contacts A Day = 1K $1,000 / Day = 1,000 x 365 Days ~400,000 400K Year
 ##### 10K New Friends Per Pay Day
-
+e.g. natalia site:linkedin.com/in/*
 http://microformats.org/wiki/hresume-examples-in-wild
 LinkedIn has ~9 million Public Profiles marked up in hResume
 ## https://github-bot-tutorial.readthedocs.io/en/latest/
@@ -48,3 +48,10 @@ https://github.com/search?q=location%3Apasadena&type=Users
 https://github.com/search?q=location%3Awharton&type=Users
 
 # https://github.com/search?o=desc&p=8&q=location%3Abrooklyn&type=Users
+
+
+# https://github.com/topics/linkedin-scraper?o=desc&s=stars
+# https://github.com/linkedin/URL-Detector
+# https://github.com/jvandenaardweg/linkedin-profile-scraper
+# https://github.com/asraisingh/linkedin-email-extractor
+# https://github.com/emeth-/E-Reveal

@@ -8,6 +8,11 @@ LinkedIn has ~9 million Public Profiles marked up in hResume
 ### https://github.com/andrewsyc/github-follow-bot
 #### https://help.github.com/en/github/searching-for-information-on-github/searching-users#search-only-users-or-organizations
 
+# Social Capital Metcalfe Law O(n^2)
+![](https://raw.githubusercontent.com/kevin11h/SAVE-YOUR-GH-github-data/master/download%20(1).png)
+# Social Capital Network Power Law Metcalfe Law O(n^2)
+![](https://github.com/kevin11h/SAVE-YOUR-GH-github-data/blob/master/download.png?raw=true)
+
 #### https://github.com/search?q=location%3Arussia&type=Users
 
 ## Github API

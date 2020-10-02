@@ -1,4 +1,6 @@
-## 3000 3K Contacts A Day % 1 = 3 x $10 Product = $30 A Day x 30 Days Monthly = $900 ~ $1000 $1K Per Month x 300 Days Per Year = $300,000 $300 K Per Year ~ Avg CEO Take Home Pay!
+# Save Slack Contacts in Case of Crash Unavailability https://stackoverflow.com/questions/41564027/slack-api-retrieve-all-member-emails-from-a-slack-channel
+
+## 3000 3K Contacts A Day % 1 = 3 x $10 Product = $30 A Day x 30 Days Monthly = $900 ~ $1000 $1K Per Month x 300 Days Per Year = $300,000 $300 K Per Year ~ Avg CEO Take Home Pay! = Manage Millions of Employees & Customers
 
 ### 1000 1K Contacts A Day = 1K $1,000 / Day = 1,000 x 365 Days ~400,000 400K Year
 ##### 10K New Friends Per Pay Day

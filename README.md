@@ -1,3 +1,4 @@
+# TODO: Automate Cyrillic & Chinese Coders Collections
 # November 2020 +200 More New Contacts Saved =>$7K victory.
 ## `New Note: 1. Bash Source File: Write AUTOPILOT.py script errors to file 2. Check Print Errors File Bash Script Startup`
 # Save Slack Contacts in Case of Crash Unavailability https://stackoverflow.com/questions/41564027/slack-api-retrieve-all-member-emails-from-a-slack-channel
